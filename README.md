@@ -51,4 +51,4 @@ This NLP project demonstrates how student feedback can be transformed into actio
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/Shruthi/student-emotion-nlp.git
+[Open in Colab](https://colab.research.google.com/github/ShruthiKrishna-max/NLP_Student_Emotion/blob/main/Student_Emotion_Analysis_NLP_Project.ipynb)
