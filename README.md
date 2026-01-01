@@ -1,9 +1,9 @@
-# Student Emotion Analysis Using NLP
+# EmotiGuide
 
 [![Python](https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
 
 ## Project Overview
-This project analyzes student feedback using Natural Language Processing (NLP) to detect emotions, classify sentiment, and generate actionable suggestions. It helps institutions gain meaningful insights from unstructured feedback efficiently, enabling data-driven academic improvements.
+EmotiGuide analyzes student feedback using Natural Language Processing (NLP) to detect emotions, classify sentiment, and generate actionable suggestions. It helps institutions gain meaningful insights from unstructured feedback efficiently, enabling data-driven academic improvements.
 
 ---
 
