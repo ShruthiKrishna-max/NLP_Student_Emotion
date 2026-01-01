@@ -48,7 +48,8 @@ This NLP project demonstrates how student feedback can be transformed into actio
 
 ---
 
-## How to Run
-1. Clone the repository:
-```bash
+### How to Run
+1. Open the notebook in Google Colab
+2. Run all cells from top to bottom
+3. Explore visualizations and insights
 [Open in Colab](https://colab.research.google.com/github/ShruthiKrishna-max/NLP_Student_Emotion/blob/main/Student_Emotion_Analysis_NLP_Project.ipynb)
